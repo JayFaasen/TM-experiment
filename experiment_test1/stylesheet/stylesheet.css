@@ -1,0 +1,11 @@
+body {
+    color: rgb(29, 7, 45);
+    background-color: #C4D2D6;
+    font-size: 1em;
+    width: fit-content;
+    margin: auto;
+}
+
+button {
+background-color: blueviolet;
+}
